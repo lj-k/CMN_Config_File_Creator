@@ -4,6 +4,8 @@
 
 基于 ARM CMN700 R3P0 (Kampos) 的 Mesh 拓扑配置可视化生成工具。通过图形化界面拖拽设备、配置参数、运行 DRC 校验，一键生成可执行的 Ruby 脚本。
 
+项目地址：https://lj-k.github.io/CMN_Config_File_Creator/
+
 ## 功能概览
 
 ### 图形化拓扑编辑
